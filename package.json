@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "auto sent message to each parent when student fingerprint",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
